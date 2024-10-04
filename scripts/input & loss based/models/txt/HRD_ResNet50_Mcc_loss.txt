@@ -1,0 +1,20 @@
+HRD_ResNet50_Mcc_loss.h5
+
+Location: roksana pc
+High Imbalance
+Train-path=enhanced
+Test-path=enhanced
+
+height: 210	width: 210	crop: 210
+
+factor: 0.93	patience: 2	epoch: 200
+
+Lowest Training Loss: 0.8827125430107117
+Highest training accuracy: 0.7051653861999512
+
+Accuracy: 0.7092	Precision: 0.6976	Recall: 0.7092	F1-score: 0.6814
+
+all: [1097  122]
+
+hem: [421 227]
+      all hem
